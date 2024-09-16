@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SrikanthTippasani\\AdventEmodal\\AdventEmodal.csproj": {}
+    "D:\\New Project\\AdventEmodal\\AdventEmodal-1\\AdventEmodal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SrikanthTippasani\\AdventEmodal\\AdventEmodal.csproj": {
+    "D:\\New Project\\AdventEmodal\\AdventEmodal-1\\AdventEmodal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SrikanthTippasani\\AdventEmodal\\AdventEmodal.csproj",
+        "projectUniqueName": "D:\\New Project\\AdventEmodal\\AdventEmodal-1\\AdventEmodal.csproj",
         "projectName": "AdventEmodal",
-        "projectPath": "C:\\Users\\SrikanthTippasani\\AdventEmodal\\AdventEmodal.csproj",
-        "packagesPath": "C:\\Users\\SrikanthTippasani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SrikanthTippasani\\AdventEmodal\\obj\\",
+        "projectPath": "D:\\New Project\\AdventEmodal\\AdventEmodal-1\\AdventEmodal.csproj",
+        "packagesPath": "C:\\Users\\SunilReddyDoddeti\\.nuget\\packages\\",
+        "outputPath": "D:\\New Project\\AdventEmodal\\AdventEmodal-1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SrikanthTippasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SunilReddyDoddeti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
